@@ -2,6 +2,10 @@
 
 > Guia simples e visual para qualquer servidor verificar, sozinho, os seus períodos de férias **vencidos e a vencer** — direto pelo holerite.
 
+> **📘 Outros guias do repositório**
+> * [Acessar o holerite — passo a passo completo](acessar-holerite.html) (primeiro acesso com CPF, holerite, faltas abonadas, atestados, espelho/batidas de ponto e banco de horas)
+
+
 Você não precisa abrir chamado para isso. Em menos de 1 minuto você consegue ver:
 * Quais períodos aquisitivos você já possui
 * Quantos dias já foram gozados (parcial ou integral)
